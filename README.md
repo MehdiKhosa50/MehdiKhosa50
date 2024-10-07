@@ -1,5 +1,6 @@
 ## Hi there 👋 It's Muhammad Muntazir Mehdi!
-# 💫 About Me:I'm a seasoned Blockchain Engineer with expertise in Solidity and Next.js. My extensive experience in DeFi, particularly with decentralized exchanges, has honed my skills in creating robust and efficient smart contracts. Currently, I'm expanding my skill set by delving into backend development to master the complete Blockchain MERN stack. I'm always eager to learn new tools and technologies, adapting quickly to evolving industry standards. My passion for blockchain innovation, combined with my technical proficiency and continuous learning mindset.
+# 💫 About Me:
+               I'm a seasoned Blockchain Engineer with expertise in Solidity and Next.js. My extensive experience in DeFi, particularly with decentralized exchanges, has honed my skills in creating robust and efficient smart contracts. Currently, I'm expanding my skill set by delving into backend development to master the complete Blockchain MERN stack. I'm always eager to learn new tools and technologies, adapting quickly to evolving industry standards. My passion for blockchain innovation, combined with my technical proficiency and continuous learning mindset.
 
 As a Blockchain Ex-Intern at Vanar, I worked on a fee-less Decentralized Exchange (DEX) project named as PeoplesDex. In my learning journey, I am constantly exploring new technologies and applications within the blockchain space.
 
