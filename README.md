@@ -1,22 +1,183 @@
-## Hi there 👋 It's Muhammad Muntazir Mehdi!
-# Blockchain Engineer, @ArgonTeq Inc
-# 💫 About Me:
-I'm a seasoned Blockchain Engineer with expertise in Solidity, Next.js and MERN. My extensive experience in DeFi, particularly with decentralized exchanges, has honed my skills in creating robust and efficient smart contracts. Currently, I'm expanding my skill set by delving into backend development to master the complete Blockchain MERN stack. I'm always eager to learn new tools and technologies, adapting quickly to evolving industry standards. My passion for blockchain innovation, combined with my technical proficiency and continuous learning mindset.
+<div align="center">
 
-As a Computer Science graduate, I channeled my technical expertise into blockchain engineering, successfully developing @PeoplesDex that demonstrates my ability to transform complex blockchain concepts into practical solutions. This project not only showcased my technical capabilities but also reinforced my belief in blockchain's potential to democratize finance. Now at @ArgonTeq Inc., I'm crafting the future of Web3 through innovative smart contract development and decentralized applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0891b2,75:059669,100:f59e0b&text=Mehdi%20Khosa&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%7C%20Blockchain%20%7C%20AI%20Automation%20%7C%20Trading%20Systems&descAlignY=58&animation=fadeIn" alt="Mehdi Khosa banner" />
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MehdiKhosa50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MehdiKhosa50&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiKhosa50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+building+fast+product+systems;Blockchain+Engineer+shipping+smart+contracts+and+dApps;AI+and+automation+builder+for+real+workflows;Crypto%2C+Forex%2C+trading+bots%2C+signals%2C+and+alerts;Telegram+bots%2C+wallet+UX%2C+DeFi%2C+NFTs%2C+marketplaces)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MehdiKhosa50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://www.mehdikhosa.xyz/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mehdikhosa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MehdiKhosa50"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/MehdiKhosa50"><img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mehdikhosa50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/dappengineer50"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MehdiKhosa50&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=MehdiKhosa50&style=for-the-badge&color=0891b2" alt="Profile views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MehdiKhosa50&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Engineer Profile
+
+I am **Mehdi Khosa**, a software engineer focused on building fast, practical, production-style systems across **full-stack web**, **blockchain**, **AI automation**, and **trading products**.
+
+I work where software needs to be more than a UI: smart contracts, wallet flows, Telegram bots, crypto signal engines, trading alerts, reward systems, NFT marketplaces, bridges, automation pipelines, and backends that keep the product moving.
+
+```txt
+Core lane:     Full-stack engineering + blockchain systems
+Strong edge:   Crypto, Forex, trading bots, Telegram automation, AI workflows
+Web3 depth:    EVM, Solana, TON, SUI, DeFi, NFTs, marketplaces, token systems
+Mindset:       Ship fast, keep systems clean, make the product feel premium
+```
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Blockchain Products</h3>
+      <p>Smart contracts, dApps, staking systems, token minters, NFT collections, marketplaces, DeFi flows, wallet UX, and blockchain explorers.</p>
+    </td>
+    <td width="50%">
+      <h3>Trading & Automation</h3>
+      <p>Crypto signals, Forex/EA-style automation, market alerts, Telegram bots, rule engines, arbitrage workflows, and real-time notification systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Full-Stack Platforms</h3>
+      <p>Next.js and React frontends, Node/Nest/Express APIs, PostgreSQL/MongoDB data layers, dashboards, admin tools, and production deployments.</p>
+    </td>
+    <td width="50%">
+      <h3>AI-Driven Workflows</h3>
+      <p>AI-assisted engineering, automation-first backend workflows, intelligent tooling, product accelerators, and systems that reduce manual work.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,materialui,tailwind" alt="Frontend skills" />
+
+### Backend, Databases & Messaging
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis" alt="Backend skills" />
+
+### Blockchain & Web3
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,rust" alt="Blockchain skills" />
+
+### Tools & Delivery
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,docker" alt="Tools" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=111827" alt="Solana" />
+  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white" alt="TON" />
+  <img src="https://img.shields.io/badge/SUI-4DA2FF?style=for-the-badge&logoColor=white" alt="SUI" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots" />
+  <img src="https://img.shields.io/badge/Trading_Bots-059669?style=for-the-badge&logo=tradingview&logoColor=white" alt="Trading bots" />
+  <img src="https://img.shields.io/badge/AI_Automation-F59E0B?style=for-the-badge&logo=openai&logoColor=111827" alt="AI automation" />
+</p>
+
+---
+
+## Selected Work
+
+| Project | What It Shows | Stack / Domain |
+|---|---|---|
+| [Crypto Signals](https://budsignal.io/) | Real-time crypto signal platform with Telegram delivery | Next.js, Node.js, PostgreSQL, Telegram Bot |
+| [Trading Alerts](https://trading-alerts-frontend-orpin.vercel.app/) | Indicator-driven crypto trading alerts and notifications | Next.js, Node.js, PostgreSQL, TradingView-style rules |
+| [BCoinBets](https://bcoin-bets.vercel.app/) | Bitcoin prediction and betting product | MERN, Solidity, Hardhat, Polygon |
+| [KatanaInu Reward System](https://katanainu-reward-system.vercel.app/) | On-chain game reward distribution engine | Ethereum, Thirdweb, NATS, Node.js, MongoDB |
+| [SUI NFT Marketplace](https://suiscan.xyz/testnet/object/0x508725e3b66a818544d166e09b7cdf3289e16e7d25931ec54cbd01fe30c682b1/tx-blocks) | NFT minting, trading, and marketplace mechanics on SUI | SUI, NFTs, bulk minting |
+| [Solana Token Minter](https://solana-token-minter-njbp.vercel.app/) | Production-style SPL token minting UX | Solana, Anchor, Rust, Next.js, TypeScript |
+| [TON Jetton Token](https://testnet.tonscan.org/jetton/kQAWLhT6AdrxQWPguv0759aleoPm70y2Cg7XGoOUKafp2QKn#transactions) | CLI-driven Jetton deployment and minting | TON, wallets, smart contracts |
+| [PeoplesDex](https://peoplesdex.vercel.app/) | DEX built from internship work into a real Web3 product | Next.js, Solidity, Hardhat, Ethers.js |
+| [Custom Blockchain](https://github.com/MehdiKhosa50/Creating-a-Blockchain-from-Scratch-with-Javascript) | Proof-of-Work blockchain and node simulation | Node.js, Express, JavaScript |
+
+> Some client and production work is private, but the patterns are visible here: secure contracts, fast frontends, reliable backends, automation, and business-focused delivery.
+
+---
+
+## Current Engineering Focus
+
+```txt
+1. Building trading platforms, signals, alerts, Telegram bots, and automation products.
+2. Shipping blockchain systems across EVM, Solana, TON, and SUI.
+3. Designing fast, modern, recruiter-ready and product-grade frontends.
+4. Writing backend services that are clean, observable, and easy to scale.
+5. Using AI as an engineering accelerator, not a replacement for engineering judgment.
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MehdiKhosa50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiKhosa50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=MehdiKhosa50&theme=tokyonight&hide_border=true&card_width=860" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MehdiKhosa50&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MehdiKhosa50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Fast Facts
+
+<table>
+  <tr>
+    <td><b>Primary role</b></td>
+    <td>Full-Stack Software Engineer, Blockchain Engineer</td>
+  </tr>
+  <tr>
+    <td><b>Product domains</b></td>
+    <td>Crypto, Forex, DeFi, NFTs, trading systems, bots, AI automation</td>
+  </tr>
+  <tr>
+    <td><b>Best fit</b></td>
+    <td>Teams that need someone who can connect product, frontend, backend, contracts, and delivery</td>
+  </tr>
+  <tr>
+    <td><b>Open to</b></td>
+    <td>Strong engineering teams, Web3 products, trading platforms, automation-heavy products, and serious freelance work</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### Let's build systems that feel fast, sharp, and useful.
+
+<a href="mailto:mehdikhosa50@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=111827" alt="Contact me" />
+</a>
+<a href="https://www.mehdikhosa.xyz/">
+  <img src="https://img.shields.io/badge/View_Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=111827" alt="View portfolio" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:0891b2,75:059669,100:f59e0b" alt="Footer wave" />
+
+</div>
