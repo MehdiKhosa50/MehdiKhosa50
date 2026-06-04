@@ -133,12 +133,12 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MehdiKhosa50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiKhosa50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-pi-lyart-88.vercel.app/api?username=MehdiKhosa50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-pi-lyart-88.vercel.app/api/top-langs/?username=MehdiKhosa50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=MehdiKhosa50&theme=tokyonight&hide_border=true&card_width=860&cache_seconds=86400" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=MehdiKhosa50&theme=tokyonight&hide_border=true&card_width=860" alt="GitHub streak" />
 
 <br />
 
@@ -149,7 +149,6 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 <img src="https://github-profile-trophy.vercel.app/?username=MehdiKhosa50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
 
 </div>
-
 ---
 
 ## Fast Facts
