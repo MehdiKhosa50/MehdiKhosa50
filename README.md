@@ -146,7 +146,7 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MehdiKhosa50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-indol-alpha.vercel.app/?username=MehdiKhosa50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
 
 </div>
 ---
