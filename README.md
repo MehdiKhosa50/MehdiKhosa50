@@ -72,7 +72,10 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis" alt="Backend skills" />
 
 ### Blockchain & Web3
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,rust" alt="Blockchain skills" />
+<img src="https://skillicons.dev/icons?i=solidity,hardhat,rust,web3js" alt="Blockchain skills" />
+
+### Trading & Automation
+<img src="https://skillicons.dev/icons?i=python,docker" alt="Trading tools" />
 
 ### Tools & Delivery
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,docker" alt="Tools" />
@@ -80,10 +83,15 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=111827" alt="Solana" />
   <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white" alt="TON" />
   <img src="https://img.shields.io/badge/SUI-4DA2FF?style=for-the-badge&logoColor=white" alt="SUI" />
+  <img src="https://img.shields.io/badge/MQL4-00897B?style=for-the-badge&logoColor=white" alt="MQL4" />
+  <img src="https://img.shields.io/badge/MQL5-00BFA5?style=for-the-badge&logoColor=white" alt="MQL5" />
+  <img src="https://img.shields.io/badge/Expert_Advisors-1565C0?style=for-the-badge&logoColor=white" alt="Expert Advisors" />
+  <img src="https://img.shields.io/badge/MetaTrader_4%2F5-1A237E?style=for-the-badge&logoColor=white" alt="MetaTrader" />
   <img src="https://img.shields.io/badge/Telegram_Bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots" />
   <img src="https://img.shields.io/badge/Trading_Bots-059669?style=for-the-badge&logo=tradingview&logoColor=white" alt="Trading bots" />
   <img src="https://img.shields.io/badge/AI_Automation-F59E0B?style=for-the-badge&logo=openai&logoColor=111827" alt="AI automation" />
@@ -125,12 +133,12 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MehdiKhosa50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MehdiKhosa50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiKhosa50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=MehdiKhosa50&theme=tokyonight&hide_border=true&card_width=860" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=MehdiKhosa50&theme=tokyonight&hide_border=true&card_width=860&cache_seconds=86400" alt="GitHub streak" />
 
 <br />
 
@@ -138,7 +146,7 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MehdiKhosa50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MehdiKhosa50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
 
 </div>
 
