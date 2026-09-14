@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+building+fast+product+systems;Blockchain+Engineer+shipping+smart+contracts+and+dApps;AI+and+automation+builder+for+real+workflows;Crypto%2C+Forex%2C+trading+bots%2C+signals%2C+and+alerts;Telegram+bots%2C+wallet+UX%2C+DeFi%2C+NFTs%2C+marketplaces)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.mehdikhosa.xyz/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.mehdikhosa.com/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mehdikhosa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/MehdiKhosa50"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/MehdiKhosa50"><img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -156,7 +156,7 @@ Mindset:       Ship fast, keep systems clean, make the product feel premium
 <table>
   <tr>
     <td><b>Primary role</b></td>
-    <td>Full-Stack Software Engineer, Blockchain Engineer</td>
+    <td>Full-Stack Web3 & Trading Platform Developer, Blockchain Engineer, Software Engineer</td>
   </tr>
   <tr>
     <td><b>Product domains</b></td>
