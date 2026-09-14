@@ -19,7 +19,7 @@
 
 ---
 
-## Engineer Profile
+## Engineer Profile : Web3 & Trading Platform Developer
 
 I am **Mehdi Khosa**, a software engineer focused on building fast, practical, production-style systems across **full-stack web**, **blockchain**, **AI automation**, and **trading products**.
 
