@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0891b2,75:059669,100:f59e0b&text=Mehdi%20Khosa&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Web3%20%26%20Trading%20Platform%20Developer%20%7C%20Blockchain%20%7C%20AI%20Automation%20%7C%20Software%20Engineer&descAlignY=58&animation=fadeIn" alt="Mehdi Khosa banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0891b2,75:059669,100:f59e0b&text=Mehdi%20Khosa&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Web3%20Developer%20%7C%20Blockchain%20%7C%20AI%20Automation&descAlignY=58" alt="Mehdi Khosa banner">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+building+fast+product+systems;Blockchain+Engineer+shipping+smart+contracts+and+dApps;AI+and+automation+builder+for+real+workflows;Crypto%2C+Forex%2C+trading+bots%2C+signals%2C+and+alerts;Telegram+bots%2C+wallet+UX%2C+DeFi%2C+NFTs%2C+marketplaces)](https://git.io/typing-svg)
 
